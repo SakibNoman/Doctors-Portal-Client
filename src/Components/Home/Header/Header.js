@@ -1,7 +1,7 @@
 import React from 'react';
+import Navvybar from '../../Shared/Navvybar/Navvybar';
 import BusinessInfo from '../BusinessInfo/BusinessInfo';
 import HeaderMain from '../HeaderMain/HeaderMain';
-import Navvybar from '../Navvybar/Navvybar';
 import './Header.css';
 
 const Header = () => {
